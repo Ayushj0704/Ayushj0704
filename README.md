@@ -14,12 +14,12 @@ I'm a first-year college student passionate about software development and open-
 
 ## 🚀 Projects
 Here are a few projects I’ve worked on:
-- **[Snake Game](link-to-project)**: Brief description of what the project does.
-- **[Digital Clock](link-to-project)**: Brief description of this project.
+- **[Snake Game](https://github.com/Ayushj0704/Snake-game-)**: Snake Game using pygame. 
+- **[Digital Clock](link-to-project)**: digital clock using Tkinter.
 
 ## 📫 Get in Touch
 - 📧 Email: [jhakrayush2007@gmail.com]
-- 🔗 LinkedIn: [Ayush Kumar Jha](www.linkedin.com/in/ayush-kumar-jha-9ba65a314)
+- 🔗 LinkedIn: Ayush Kumar Jha(www.linkedin.com/in/ayush-kumar-jha-9ba65a314)
   
 ## 🤝 Contributing
 I love collaborating! If you have a project or idea in mind, feel free to reach out!
