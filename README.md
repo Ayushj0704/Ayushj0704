@@ -3,7 +3,7 @@
 I'm a first-year college student passionate about software development and open-source projects. Currently exploring various programming languages and technologies.
 
 ## 🌱 About Me
-- 💻 Currently learning Python, C++ and DSA.
+- 💻 Currently learning DSA in C++.
 - 🌍 Interested in contributing to open-source and collaborating on exciting projects.
 - 📔 Avid Reader.
 
