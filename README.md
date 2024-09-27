@@ -5,7 +5,7 @@ I'm a first-year college student passionate about software development and open-
 ## 🌱 About Me
 - 💻 Currently learning Python, C++ and DSA.
 - 🌍 Interested in contributing to open-source and collaborating on exciting projects.
-- 🎮 Avid gamer and tech enthusiast
+- 📔 Avid Reader.
 
 ## 🔧 Technologies & Skills
 - **Languages:** Python, C++
