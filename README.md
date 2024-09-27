@@ -9,7 +9,8 @@ I'm a first-year college student passionate about software development and open-
 
 ## 🔧 Technologies & Skills
 - **Languages:** Python, C++
-- **Tools:** GitHub, Visual Studio Code, Pygame,NumPy
+- **Tools:** GitHub, Visual Studio Code,Replit
+- **Libraries** NumPy,pygame
   
 
 ## 🚀 Projects
