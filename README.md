@@ -15,7 +15,7 @@ I'm a first-year college student passionate about software development and open-
 ## 🚀 Projects
 Here are a few projects I’ve worked on:
 - **[Snake Game](https://github.com/Ayushj0704/Snake-game-)**: Snake Game using pygame. 
-- **[Digital Clock](link-to-project)**: digital clock using Tkinter.
+- **[Digital Clock](https://github.com/Ayushj0704/digital-Clock)**: digital clock using Tkinter.
 
 ## 📫 Get in Touch
 - 📧 Email: [jhakrayush2007@gmail.com]
