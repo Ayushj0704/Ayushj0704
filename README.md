@@ -17,6 +17,7 @@ I'm a first-year college student passionate about software development and open-
 Here are a few projects I’ve worked on:
 - **[Snake Game](https://github.com/Ayushj0704/Snake-game-)**: Snake Game using pygame. 
 - **[Digital Clock](https://github.com/Ayushj0704/digital-Clock)**: digital clock using Tkinter.
+- **[The Perfect Guess](https://github.com/Ayushj0704/perfect_GUess)**: Guess Game using Random module.
 
 ## 📫 Get in Touch
 - 📧 Email: [jhakrayush2007@gmail.com]
