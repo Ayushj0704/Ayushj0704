@@ -15,14 +15,12 @@
 
 - 📫 How to reach me **jhakrayush2007@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1b_Gz0-zIN3QEDIchh2oTInME8vGmVTIw/view?usp=sharing](https://drive.google.com/file/d/1b_Gz0-zIN3QEDIchh2oTInME8vGmVTIw/view?usp=sharing)
-
 - ⚡ Fun fact **I enjoy playing Table tennis and Chess. I find joy in reading non-fictional(self-help) books.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ayush-kumar-jha-9ba65a314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-kumar-jha-9ba65a314" height="30" width="40" /></a>
-<a href="https://instagram.com/ayush.kr.jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just.jhaaa" height="30" width="40" /></a>
+<a href="https://instagram.com/just.jhaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="just.jhaaa" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
