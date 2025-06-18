@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Jha</h1>
-<h3 align="center">A first-year college student passionate about software development and open-source projects. Currently exploring various programming languages and technologies.</h3>
+<h3 align="center">A CS Undergrad Student passionate about software development and open-source projects. Currently exploring various programming languages and technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushj0704&label=Profile%20views&color=0e75b6&style=flat" alt="ayushj0704" /> </p>
 
