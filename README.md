@@ -49,7 +49,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,flutter,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,,git,github,figma,vscode" />
 </p>
 
 ---
