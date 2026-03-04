@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Kumar Jha</h1>
-<h3 align="center">💻 CS Undergrad | Open Source Enthusiast | Aspiring Software Developer 🚀</h3>
+<h3 align="center">💻 CS Undergrad | Open Source Enthusiast | Aspiring Software Developer </h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF" />
@@ -11,12 +11,12 @@
 
 ---
 
-- 🚀 On a journey to become a better developer, one commit at a time  
-- 📘 Currently diving deep into **DSA & problem-solving**  
-- 🌍 Love building with others let’s create something cool!  
-- 👨‍💻 All my code lives here: [github.com/Ayushj0704](https://github.com/Ayushj0704)  
-- 📩 Drop me a mail: **jhakrayush2007@gmail.com**  
-- 🧠 Outside code, I enjoy **Table Tennis**, **Chess**, and **thought-provoking reads**  
+-  On a journey to become a better developer, one commit at a time  
+-  Currently diving deep into **DSA & problem-solving**  
+-  Love building with others let’s create something cool!  
+-  All my code lives here: [github.com/Ayushj0704](https://github.com/Ayushj0704)  
+-  Drop me a mail: **jhakrayush2007@gmail.com**  
+-  Outside code, I enjoy **Table Tennis**, **Chess**, and **thought-provoking reads**  
 
 
 ---
