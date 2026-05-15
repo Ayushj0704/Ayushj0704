@@ -51,13 +51,6 @@
 
 ---
 
-### 🌐 3D Contribution Heatmap
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ayushj0704/ayushj0704/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Heatmap" />
-</p>
-
----
-
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,figma,vscode" />
