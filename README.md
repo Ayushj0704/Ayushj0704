@@ -11,7 +11,7 @@
 
 - 🚀 On a journey to become a better developer, one commit at a time  
 - 🔍 Currently diving deep into **DSA & problem-solving**  
-- 🤝 Love building with others — let's create something cool!  
+- 🤝 Love building with others , let's create something cool!  
 - 💻 All my code lives here: [github.com/Ayushj0704](https://github.com/Ayushj0704)  
 - 📬 Drop me a mail: **jhakrayush2007@gmail.com**  
 - 🏓 Outside code, I enjoy **Table Tennis**, **Chess**, and **thought-provoking reads**  
